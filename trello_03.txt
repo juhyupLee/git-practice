@@ -3,3 +3,4 @@ trello03
 무언가가 수정됨
 
 trelloo_03_1
+trelloo_03_2
