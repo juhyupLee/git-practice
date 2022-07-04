@@ -61,5 +61,6 @@ juhyup30
 juhyup31
 juhyup32
 juhyup33
-juhyup34\
+juhyup34
 juhyup35
+juhyup36
