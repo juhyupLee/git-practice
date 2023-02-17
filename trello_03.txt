@@ -2,3 +2,5 @@ trello03
 
 
 있어야 될 파일trelloo_03_1
+
+B파일 수정
